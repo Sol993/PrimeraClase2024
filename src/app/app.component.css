@@ -1,0 +1,26 @@
+
+.titulo{
+    background-color: rgb(92, 162, 162);
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+.btnCalcular{
+     background-color: rgb(31, 156, 73);
+     color: aliceblue;
+     cursor: pointer;
+     margin-top: 10px;
+     margin-right: 10px;
+}
+.btnLimpiar{
+    background-color: rgb(114, 62, 82);
+    color: aliceblue;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+h4{
+color:rgb(9, 108, 141);
+}
+.active-route {
+    background-color: rgb(210, 77, 117);
+}
